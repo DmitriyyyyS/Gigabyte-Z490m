@@ -3,8 +3,11 @@ OpenCore 0.6.2
 Hackintosh Ga-Z490m
 
 CPU     Intel Core i5-10400
+
 GFX     Radeon RX 5500 XT
+
 IGPU    UHD 630
+
 Sound   Realtek ALC887
 
 
