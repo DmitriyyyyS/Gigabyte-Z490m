@@ -13,3 +13,5 @@ Sound   Realtek ALC887
 
 
 Tested on mac os 10,15,7 and macOS BigSur, works great! It is important that IMac 20.1 is specified in the config, it needs at least Mac OS 10,15,7.
+
+![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/1.png)
